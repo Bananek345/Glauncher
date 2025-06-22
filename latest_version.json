@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.5",
-  "download_url": "https://twoja_strona.com/GlitchLauncher_1.0.5.exe",
+  "latest_version": "1.0.4",
+  "download_url": "https://github.com/Bananek345/Glauncher/raw/refs/heads/main/Glauncher_v1.0.4.exe",
   "changelog": "Poprawiono błędy z uruchamianiem.\nDodano wsparcie dla wersji 1.21.1 Minecrafta.\nUlepszono interfejs użytkownika.",
   "required_min_version": "1.0.0"
 }
